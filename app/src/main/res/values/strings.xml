@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Presiden</string>
+    <string name="nama_lengkap">Nama Lengkap :</string>
+    <string name="nama_presiden">Nama Presiden</string>
+    <string name="tanggal_lahir">tanggal lahir :</string>
+    <string name="tgl">tgl</string>
+    <string name="periode">Periode :</string>
+    <string name="masa">Masa</string>
+
+</resources>
